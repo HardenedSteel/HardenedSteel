@@ -1,4 +1,3 @@
-- Currently running a [Tor relay](https://metrics.torproject.org/rs.html#details/A168B871E65F0CD5F094C2497DCEC0FA881C6D00)
 - I know some HTML & CSS, Python
 - Interested in privacy, crypto-currencies, coding.
 
