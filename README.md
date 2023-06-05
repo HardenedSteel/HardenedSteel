@@ -1,5 +1,5 @@
 - I know some HTML & CSS, Python
-- Interested in privacy, crypto-currencies, coding.
+- Interested in privacy, Bitcoin Cash, Monero, coding.
 - [PGP Key](https://raw.githubusercontent.com/HardenedSteel/HardenedSteel/main/pgp.md)
 
 Would you like to donate?
