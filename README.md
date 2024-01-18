@@ -1,4 +1,3 @@
-- HTML & CSS + Python
 - Privacy + Security + Coding.
 - [PGP Key](https://raw.githubusercontent.com/HardenedSteel/HardenedSteel/main/pgp.md)
 
