@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Deprecating the old RSA PGP key with new Elliptic-curve PGP key.
+
+Switching to new email address HardenedSteel@pm.me (from HardenedSteel@protonmail.com)
+
+New key:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	HardenedSteel@pm.me <HardenedSteel@pm.me>
+Comment: Created:	1/14/24 8:37 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	34E487DE8AD271CA4F13EA4313C7511DDC97498C
+
+mDMEZaQb1hYJKwYBBAHaRw8BAQdAwLsb9LY6+8gRBzFZ++vuF5TZbILvGaM05qJ8
+3pZmsF20KUhhcmRlbmVkU3RlZWxAcG0ubWUgPEhhcmRlbmVkU3RlZWxAcG0ubWU+
+iIwEEBYKAD4FgmWkG9YECwkHCAmQE8dRHdyXSYwDFQgKBBYAAgECGQECmwMCHgEW
+IQQ05IfeitJxyk8T6kMTx1Ed3JdJjAAAU5IA/2l4HUKJoqjZJf4zjZBkV3dzb4Qn
+EPwdV5IXNJWPhFKEAP4zIQsO0GBaV894tPiP2NORS9tenBOgcHHMlAl5lTZzALg4
+BGWkG9YSCisGAQQBl1UBBQEBB0BaPcgyxntpqw82xn5TifFr5urcW9UaB0RWYHcq
+NTiJaQMBCAeIeAQYFgoAKgWCZaQb1gmQE8dRHdyXSYwCmwwWIQQ05IfeitJxyk8T
+6kMTx1Ed3JdJjAAAh5EA/R7x+wNo+/kPWJf2G36FHfjcqY4BMoqXjQwwN4SMf+yf
+AP9DrHUS7kjV3AZAQeBqxAFewLRywUd70gC2pB94XZZDDA==
+=NmlE
+- -----END PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEElbJivxUDPpPc5qg7vFkLOrAVhkkFAmXsS8YACgkQvFkLOrAV
+hklRoQf/Rfm0pM0lVlL7zt/GejW4XTM4h1a4bYrpWIoV3RiGSlc7jACXOGXmIsCG
+b6hw565dN5nzFkrcmxtbUQOhTr36S5mV1PGYrvh19db4hZGhT/Qsa8C421SQZaNg
+w6b12CLnFnCLtUT9c5iZXbHoo3+CDfKRicRC5cpLXAoobdoNvuWoRgsbkbl0QbQ/
+OXO+BuTFrzC5oSwJhhrN3cHAdLWiUeV27JC2Qo9aESVv0weKixov8fnfHqMNPozJ
+3NoH9z/6rrzfzjwj6yTI5E2d5dEoA3YJWR26pTuczG9tXSFuljt2a2JXtMoc5t4E
+L5s2Uo8sNHxV/mtCkFjgSTFQ95rQQQ==
+=BT2O
+-----END PGP SIGNATURE-----
