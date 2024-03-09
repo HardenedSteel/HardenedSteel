@@ -1,5 +1,5 @@
 - Privacy + Security + Coding.
-- [PGP Key](https://raw.githubusercontent.com/HardenedSteel/HardenedSteel/main/pgp.md)
+- [PGP Key](https://raw.githubusercontent.com/HardenedSteel/HardenedSteel/main/pgp.md) - [old key is depracted](https://github.com/HardenedSteel/HardenedSteel/blob/main/newkey-announcement)
 
 Would you like to donate?
 ```
