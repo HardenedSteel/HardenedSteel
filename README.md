@@ -1,4 +1,6 @@
-PGP Key:
+<details>
+<summary>PGP Key:</summary>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	@HardenedSteel:monero.social (Matrix)
@@ -25,11 +27,13 @@ S1WS3ZvaYYCTn7I5GBX3MgD/UJQ2oD1HJgkpvdq6WZUl8OhSkhrtM5SCmvtSoOsQ
 PQ0=
 =aXM3
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
+</details>
+<details>
+<summary>Donation Addresses</summary>
 
-Would you like to donate?
 ```
 XMR: 86cpEsund6BWc2rm3qviqv8fpY2sABNW6W2ZuVK3bEBq6jqwYwpJDdJhFkLw9aXvDr8Mu2rZcasNJfLRS1APdzEZ4CpPdDs
 BCH: HardenedSteel#159686; 🚀
 ```
+</details>
