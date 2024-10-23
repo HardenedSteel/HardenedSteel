@@ -1,3 +1,4 @@
+[The key is changed.](https://github.com/HardenedSteel/HardenedSteel/blob/main/new-keys.md)
 <details>
 <summary>PGP Key:</summary>
 
